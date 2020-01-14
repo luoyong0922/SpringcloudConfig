@@ -1,4 +1,4 @@
-args=test
+
 server.port=8889
 # routes to serviceId
 zuul.routes.api-a.path=/userapi/**
